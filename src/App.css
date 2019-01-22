@@ -1,13 +1,13 @@
-.login {
+.login, .register {
   margin: 5em 1em;
 }
 
-.login h2 {
+.login h2, .register h2 {
   font-size: 1.8em;
   padding-bottom: .5em;
 }
 
-.login input {
+.login input, .register input {
   width: 500px;
 }
 
